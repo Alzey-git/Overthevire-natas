@@ -1,2 +1,2 @@
 # Overthevire-natas
-Прохождение песочницы overthevire-natas
+Прохождение CTF песочницы overthevire-natas
